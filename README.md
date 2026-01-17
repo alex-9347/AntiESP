@@ -45,3 +45,15 @@ Perfect for:
 
 ## 🚀 Status
 Actively developed & performance-focused.
+
+---
+
+## 🖼️ Screenshots
+
+**Above Y=5**
+![AntiESP Above Y=5](above_y5.png)
+![AntiESP Above Y=5](_above_y5.png)
+
+**Below Y=5**
+![AntiESP Below Y=5](below_y5.png)
+![AntiESP Below Y=5](_below_y5.png)
